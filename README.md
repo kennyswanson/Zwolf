@@ -1,0 +1,1 @@
+this is the code that worked for me not sur about the the cfgenviroment.xml as the name and behavure are set to wolf and wolf AI are normal vanila im sure the mod has its own AI but cant find the name the way i have set them up in my server thay are larg packs arount tisy militery 
