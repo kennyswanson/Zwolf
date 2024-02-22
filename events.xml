@@ -1,3 +1,7 @@
+copy to events.xml
+
+
+
 <event name="AnimalZombieWolf">
         <nominal>8</nominal>
         <min>4</min>
