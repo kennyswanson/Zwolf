@@ -1,0 +1,11 @@
+copy to cfgspawnabletypes.xml
+
+
+
+<!--zombie_wolf-->
+	<type name="ZombieWolf">
+		<attachments chance="0.01">
+			<item name="Paper" chance="1.00" />
+			<item name="Rag" chance="1.00" />
+		</attachments>
+	</type>
