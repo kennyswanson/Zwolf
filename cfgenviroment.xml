@@ -45,7 +45,7 @@
 			<file usable="bear_territories"/>
 		</territory>
 		<!--zombiewolf-->
-		<territory type="Herd" name="ZombieWolf" behavior="DZWolfGroupBeh">
+		<territory type="Herd" name="ZombieWolf" behavior="ZWolfGroup">
 			<file usable="zombiewolf_territories"/>
 		</territory>
 
